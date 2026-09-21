@@ -16,8 +16,8 @@ Estudiante de 2º de DAW, en busca de prácticas en desarrollo web.
 
 ## 📌 Proyectos destacados
 
-- **[Nombre del proyecto](enlace)** — breve descripción de qué hace y qué tecnologías usa
-- **[Nombre del proyecto](enlace)** — breve descripción de qué hace y qué tecnologías usa
+- **
+- **
 
 ## 📫 Contacto
 
