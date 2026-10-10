@@ -21,7 +21,7 @@ Estudiante de 2º de DAW, en busca de prácticas en desarrollo web.
 
 ## 📫 Contacto
 
-LinkedIn: · E-mail: alex.rios.soto@hotmail.com
+LinkedIn:alejandro-delosrios · E-mail: alejandrodelosriossoto@gmail.com
 <!--
 **AlejandrodelosRiosSoto/AlejandrodelosRiosSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
