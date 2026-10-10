@@ -4,7 +4,7 @@ Estudiante de 2º de DAW, en busca de prácticas en desarrollo web.
 
 ## 🚀 Sobre mí
 - 🎓 Estudiando Desarrollo de Aplicaciones Web
-- 🌱 Actualmente aprendiendo Java, php, JavaScript y SQL.
+- 🌱 Actualmente aprendiendo Java, PHP, JavaScript y SQL.
 - 🎯 Buscando prácticas / primer empleo como desarrollador junior
 - 💬 Pregúntame sobre desarrollo web, bases de datos o lo que necesites
 
@@ -22,17 +22,3 @@ Estudiante de 2º de DAW, en busca de prácticas en desarrollo web.
 ## 📫 Contacto
 
 LinkedIn:alejandro-delosrios · E-mail: alejandrodelosriossoto@gmail.com
-<!--
-**AlejandrodelosRiosSoto/AlejandrodelosRiosSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
