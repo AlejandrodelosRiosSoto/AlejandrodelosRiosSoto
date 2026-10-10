@@ -10,7 +10,7 @@ Estudiante de 2º de DAW, en busca de prácticas en desarrollo web.
 
 ## 🛠️ Tecnologías
 
-**Backend:** Java · SQL
+**Backend:** Java · PHP· SQL
 **Frontend:** HTML · CSS · JavaScript
 **Herramientas:** Git · GitHub
 
